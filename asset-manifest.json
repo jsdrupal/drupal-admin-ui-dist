@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/vfancy/static/js/main.46fd9624.chunk.js",
-    "main.js.map": "/vfancy/static/js/main.46fd9624.chunk.js.map",
+    "main.js": "/vfancy/static/js/main.c6179769.chunk.js",
+    "main.js.map": "/vfancy/static/js/main.c6179769.chunk.js.map",
     "runtime~main.js": "/vfancy/static/js/runtime~main.d0463fc8.js",
     "runtime~main.js.map": "/vfancy/static/js/runtime~main.d0463fc8.js.map",
-    "static/js/2.9cc487aa.chunk.js": "/vfancy/static/js/2.9cc487aa.chunk.js",
-    "static/js/2.9cc487aa.chunk.js.map": "/vfancy/static/js/2.9cc487aa.chunk.js.map",
+    "static/js/2.5c9672a1.chunk.js": "/vfancy/static/js/2.5c9672a1.chunk.js",
+    "static/js/2.5c9672a1.chunk.js.map": "/vfancy/static/js/2.5c9672a1.chunk.js.map",
     "index.html": "/vfancy/index.html",
-    "precache-manifest.f1b90dbb7c85c9324c731e67f3cd89ee.js": "/vfancy/precache-manifest.f1b90dbb7c85c9324c731e67f3cd89ee.js",
+    "precache-manifest.27f8e44b897f49fbefed7efd7ba9a174.js": "/vfancy/precache-manifest.27f8e44b897f49fbefed7efd7ba9a174.js",
     "service-worker.js": "/vfancy/service-worker.js"
   }
 }
